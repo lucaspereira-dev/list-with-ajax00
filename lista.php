@@ -6,7 +6,8 @@ $usuarios = [
     'Ellen',
     'Mariana',
     'Roberto',
-    "Juliana"
+    "Juliana",
+    "Laura"
 ];
 
 echo json_encode($usuarios);
